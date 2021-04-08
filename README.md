@@ -1,2 +1,2 @@
-# Solutions Challaenge Contest 2021
- GSCC2021
+# Google Solutions Challaenge Contest 2021
+## GSCC2021
