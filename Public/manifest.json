@@ -1,0 +1,7 @@
+  {
+      "name": "KASU E-Clinic",
+      "short_name": "KASUMED",
+      "start_url": "/index.html",
+      "display": "standalone",
+      "orientation": "portrait"
+  }
