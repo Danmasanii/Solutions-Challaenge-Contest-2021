@@ -1,0 +1,15 @@
+{
+    "name": "solutions-challaenge-contest-2021",
+    "version": "1.0.0",
+    "description": "kasu E-clinic",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Danmasanii/Solutions-Challaenge-Contest-2021.git"
+    },
+    "author": "Danmasanii",
+    "license": "ISC"
+}
